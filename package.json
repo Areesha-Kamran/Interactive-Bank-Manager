@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "chalk": "^5.3.0",
+    "chalk-animation": "^2.0.3",
+    "inquirer": "^9.2.23"
+  },
+  "name": "interactive-bank-manager",
+  "version": "1.0.0",
+  "main": "index.js",
+  "type": "module",
+  "bin":"index.js",
+  "devDependencies": {
+    "@types/chalk-animation": "^1.6.3",
+    "@types/inquirer": "^9.0.7"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "Areesha Kamran",
+  "license": "ISC",
+  "description": "Interactive Bank Manager is a command-line application for managing bank accounts and customer interactions. Users can deposit and withdraw money, check their balance, and perform other banking operations. The application features a user-friendly interface with colorful and engaging messages."
+}
